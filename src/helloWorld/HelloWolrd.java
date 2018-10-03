@@ -1,7 +1,5 @@
 package helloWorld;
 
- 
-
 public class HelloWolrd 
 {
 
